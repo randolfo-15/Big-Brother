@@ -94,7 +94,10 @@ class Main extends JFrame{
            @Override
            public void actionPerformed(ActionEvent e) {
            String voto = "";
-            while(!voto.equals("sair")){
+           max=0;
+           count=0;
+           while(!voto.equals("sair")){
+
             voto= JOptionPane.showInputDialog(null,"Em quem voce vota para sair da casa, digite \"sair\" para encerrar:"); 
             votar(voto);
            }
