@@ -3,8 +3,8 @@
 
 ## Votar 
 
-![votar](./img/prova00.jpg)
+![votar](./img/prova01.jpg)
 
 ## Apurar
 
-![apurar](./img/prova01.jpg)
+![apurar](./img/prova00.jpg)
